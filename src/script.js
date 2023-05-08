@@ -1,5 +1,9 @@
 import * as THREE from '../node_modules/three/build/three.module.js'
+<<<<<<< HEAD
 import { OrbitControls } from '../node_modules/three/examples/jsm/controls/OrbitControls.js'
+=======
+import { OrbitControls } from '../node_modules/three/examples/jsm/controls/OrbitControls.js
+>>>>>>> 84c00efd2e6e5b7be3bb7a74c36eb69beb419939
 import * as dat from 'lil-gui'
 
 /**
